@@ -96,13 +96,16 @@
 
 
 
+
 .white-with-blue-shadow {
   
-  text-shadow: 1px 1px 2px black, 0 0 1em rgb(76, 0, 255), 0 0 0.2em blue;
-  color: rgb(16, 90, 32);
+  text-shadow: 1px 1px 2px black, 0 0 1em rgb(71, 6, 232), 0 0 0.2em blue;
+  color: rgb(9, 9244, 60);
   font: 1.1em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
   line-height: 1.75;
 }
+
+
 
 
 
