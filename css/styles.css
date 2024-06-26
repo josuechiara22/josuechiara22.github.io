@@ -98,8 +98,8 @@
 
 .white-with-blue-shadow {
   
-  text-shadow: 1px 1px 2px black, 0 0 1em darkgray, 0 0 0.2em blue;
-  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 1em rgb(76, 0, 255), 0 0 0.2em blue;
+  color: rgb(16, 90, 32);
   font: 1.1em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
   line-height: 1.75;
 }
@@ -131,8 +131,8 @@ header.masthead .intro-text .intro-heading {
 
 
 .white-with-dark-shadowm {
-  text-shadow: 1px 1px 2px black, 0 0 1em darkgray, 0 0 0.2em blue;
-  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 1em rgb(238, 7, 7), 0 0 0.2em rgb(224, 62, 13);
+  color: rgb(221, 11, 11);
   font: 2.1em Georgia, "Bitstream Charter", "URW Bookman L", "Century Schoolbook L", serif;
 }
 
